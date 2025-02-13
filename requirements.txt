@@ -1,0 +1,5 @@
+tensorflow
+matplotlib
+six
+numpy
+pillow
